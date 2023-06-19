@@ -1,7 +1,7 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 
 export const Footer = styled.footer`
-      height: 60px;
+  height: 60px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -9,24 +9,23 @@ export const Footer = styled.footer`
   background-color: transparent;
 
   div {
-
-    color: ${props => props.theme.colors.white};
+    color: ${(props) => props.theme.colors.white};
 
     p {
-        font-size: 0.85rem;
-        font-weight: 300;
+      font-size: 0.85rem;
+      font-weight: 300;
     }
 
     ul {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        column-gap: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      column-gap: 1rem;
 
-        li a {
-            font-size: 1.2rem;
-            color: ${props => props.theme.colors.white};
-        }
+      li a {
+        font-size: 1.2rem;
+        color: ${(props) => props.theme.colors.white};
+      }
     }
   }
 `;

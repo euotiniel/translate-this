@@ -1,0 +1,15 @@
+{
+    "translation": {
+        "language": "France",
+
+        "title": "Traduire cela?",
+        "firstp": "Je m’ennuyais et j’ai décidé de créer une application simple. Alors, j’ai pensé, pensé, pensé et pensé, puis j’ai décidé de créer cette application. Fondamentalement, l’ensemble du texte du site Web sera traduit selon une langue choisie, à savoir: anglais, français, portugais et mandarin. Grâce à cela, j’ai pu apprendre à travailler avec la traduction dans React. Pour ce projet, j’ai utilisé i18n pour la traduction.",
+        "secondp": "Ce texte est juste pour remplir la page rire, je m’en excuse. Mais sans plus tarder, passons au texte qui compte vraiment.",
+        
+        "subtitle": "Importance de la traduction des applications",
+        "first": "La traduction est la clé pour atteindre un public mondial et améliorer l’expérience utilisateur dans les applications et les sites Web. En traduisant nos applications en plusieurs langues, nous ouvrons des portes à des personnes d’origines culturelles différentes et veillons à ce qu’elles puissent comprendre et interagir avec le contenu.",
+        "second": "Imaginez un monde où toutes les applications seraient disponibles dans une seule langue. De nombreux utilisateurs seraient exclus et auraient du mal à utiliser ces applications. La traduction offre un accès égal aux ressources et à l’information, ce qui permet aux gens de se connecter et d’en bénéficier de manière significative.",
+        "third": "En traduisant notre texte, nous pouvons nous assurer que chaque utilisateur comprend clairement le message que nous voulons transmettre. Qu’ils soient en anglais, en portugais ou dans toute autre langue, tout le monde devrait avoir la possibilité de participer et de s’engager.",
+        "fourth": "La traduction élargit non seulement notre public, mais renforce également la marque et la réputation de notre application. Il témoigne du respect de la diversité culturelle et de la volonté de s’adapter aux besoins des utilisateurs. Cela crée une expérience positive, qui à son tour conduit à une plus grande satisfaction des utilisateurs et à une plus grande fidélité à notre application."
+    }
+}

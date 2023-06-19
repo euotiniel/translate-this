@@ -8,7 +8,7 @@ export default createGlobalStyle`
     }
 
     body {
-        background-color: ${props => props.theme.colors.dark};
+        background-color: ${(props) => props.theme.colors.dark};
         font-family: 'Inter';
     }
 

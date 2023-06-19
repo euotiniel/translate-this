@@ -1,0 +1,15 @@
+{
+    "translation": {
+        "language": "English",
+
+        "title": "Translate this?",
+        "firstp": "I was bored and decided to create a simple application. So, I thought, thought, thought, and thought, and then I decided to create this application. Basically, the entire text of the website will be translated according to a chosen language, namely: English, French, Portuguese, and Mandarin. With this, I was able to learn how to work with translation in React. For this project, I used i18n for translation.",
+        "secondp": "This text is just to fill the page laughter, I apologize. But without further ado, let's get to the text that really matters.",
+        
+        "subtitle": "Importance of the translation of applications",
+        "first": "Translation is the key to reaching a global audience and enhancing the user experience in applications and websites. By translating our applications into multiple languages, we open doors for people from different cultural backgrounds and ensure they can understand and interact with the content.",
+        "second": "Imagine a world where all applications were available in only one language. Many users would be excluded and struggle to use these applications. Translation provides equal access to resources and information, allowing people to connect and benefit in meaningful ways.",
+        "third": "By translating our text, we can ensure that each user clearly understands the message we want to convey. Regardless of whether they are in English, Portuguese, or any other language, everyone should have the opportunity to participate and engage.",
+        "fourth": "Translation not only expands our audience but also strengthens the brand and reputation of our application. It demonstrates respect for cultural diversity and a willingness to adapt to user needs. This creates a positive experience, which in turn leads to higher user satisfaction and loyalty to our application."
+    }
+}
