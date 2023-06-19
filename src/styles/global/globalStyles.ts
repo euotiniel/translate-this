@@ -9,6 +9,14 @@ export default createGlobalStyle`
 
     body {
         background-color: ${props => props.theme.colors.dark};
-        font-family: sans-serif;
+        font-family: 'Inter';
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    ul {
+        list-style: none;
     }
 `;

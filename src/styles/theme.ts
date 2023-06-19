@@ -1,8 +1,9 @@
 const theme = {
     colors: {
-        white: '#FFFFFF',
+        white: '#E5E6E8',
         black: '#0D0D0D',
-        dark: '#1E1E1E',
+        dark: '#18181B',
+        gray: '#9097A3',
     },
     fonts: {
         // body: 'Nunito',
